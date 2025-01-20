@@ -1,0 +1,40 @@
+province_code,province,yes_have_accessed,never_accessed,weighted_n
+11,Aceh,0.7,99.3,5756
+12,Sumatera Utara,0.1,99.9,15886
+13,Sumatera Barat,0.2,99.8,6043
+14,Riau,0.4,99.6,7052
+15,Jambi,1.0,99.0,4051
+16,Sumatera Selatan,0.1,99.9,9402
+17,Bengkulu,0.1,99.9,2323
+18,Lampung,0.2,99.8,10424
+19,Kep. Bangka Belitung,0.2,99.8,1708
+21,Kepulauan Riau,0.2,99.8,2514
+31,DKI Jakarta,0.5,99.5,12318
+32,Jawa Barat,0.3,99.7,58514
+33,Jawa Tengah,0.3,99.7,44459
+34,DI Yogyakarta,0.4,99.6,4957
+35,Jawa Timur,0.4,99.6,50591
+36,Banten,0.3,99.7,13333
+51,Bali,0.3,99.7,5149
+52,Nusa Tenggara Barat,0.2,99.8,6849
+53,Nusa Tenggara Timur,0.2,99.8,5335
+61,Kalimantan Barat,0.1,99.9,5784
+62,Kalimantan Tengah,0.3,99.7,3178
+63,Kalimantan Selatan,0.1,99.9,5023
+64,Kalimantan Timur,0.4,99.6,4320
+65,Kalimantan Utara,0.2,99.8,729
+71,Sulawesi Utara,0.2,99.8,3031
+72,Sulawesi Tengah,0.2,99.8,3216
+73,Sulawesi Selatan,0.3,99.7,9484
+74,Sulawesi Tenggara,0.2,99.8,2733
+75,Gorontalo,0.1,99.9,1260
+76,Sulawesi Barat,0.2,99.8,1467
+82,Maluku,0.2,99.8,1753
+81,Maluku Utara,0.6,99.4,1222
+92,Papua Barat,0.2,99.8,563
+96,Papua Barat Daya,0.0,100.0,599
+91,Papua,0.2,99.8,1029
+93,Papua Selatan,0.4,99.6,546
+94,Papua Tengah,0.5,99.5,1528
+95,Papua Pegunungan,0.1,99.9,1516
+0,INDONESIA,0.3,99.7,315646

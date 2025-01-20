@@ -1,0 +1,40 @@
+province_code,province,puskesmas,independent_clinic,lab,hospital,weighted_n
+11,Aceh,89.9,6.3,0.1,3.7,2741
+12,Sumatera Utara,86.8,7.9,0.2,5.1,8891
+13,Sumatera Barat,83.7,8.8,0.4,7.1,2520
+14,Riau,81.0,10.8,0.2,8.0,3650
+15,Jambi,91.3,6.8,0.0,1.9,2567
+16,Sumatera Selatan,83.1,8.9,0.1,7.9,5340
+17,Bengkulu,89.0,6.1,0.2,4.6,1538
+18,Lampung,88.8,8.4,0.3,2.5,4839
+19,Kep. Bangka Belitung,84.8,8.1,0.2,6.9,885
+21,Kepulauan Riau,80.3,10.0,1.0,8.7,861
+31,DKI Jakarta,76.4,6.5,0.4,16.7,4962
+32,Jawa Barat,81.2,9.5,0.4,8.9,18461
+33,Jawa Tengah,86.5,6.2,0.4,6.9,20384
+34,DI Yogyakarta,72.3,6.5,0.4,20.8,2682
+35,Jawa Timur,82.9,8.8,0.3,8.0,18393
+36,Banten,78.7,11.4,0.2,9.7,4866
+51,Bali,82.9,3.9,0.5,12.6,1913
+52,Nusa Tenggara Barat,82.7,5.1,0.4,11.8,1544
+53,Nusa Tenggara Timur,85.4,6.5,0.4,7.7,2441
+61,Kalimantan Barat,89.6,7.2,0.1,3.0,2595
+62,Kalimantan Tengah,84.9,11.1,0.2,3.9,2004
+63,Kalimantan Selatan,88.5,6.5,0.1,4.9,2348
+64,Kalimantan Timur,73.6,16.2,0.1,10.2,2185
+65,Kalimantan Utara,86.1,6.1,0.1,7.6,376
+71,Sulawesi Utara,86.2,5.2,0.3,8.2,1316
+72,Sulawesi Tengah,88.3,6.0,0.1,5.6,1309
+73,Sulawesi Selatan,81.9,8.5,0.2,9.4,4001
+74,Sulawesi Tenggara,90.3,4.9,0.2,4.6,1394
+75,Gorontalo,81.6,5.9,1.3,11.2,232
+76,Sulawesi Barat,89.5,7.4,0.2,2.9,631
+82,Maluku,82.5,5.4,0.2,12.0,808
+81,Maluku Utara,85.1,9.3,0.4,5.1,445
+92,Papua Barat,84.6,7.6,0.2,7.5,205
+96,Papua Barat Daya,86.7,7.4,0.3,5.7,183
+91,Papua,67.9,10.5,0.5,21.1,391
+93,Papua Selatan,61.1,24.4,0.7,13.8,234
+94,Papua Tengah,83.6,13.1,0.5,2.8,248
+95,Papua Pegunungan,69.1,8.3,0.0,22.6,159
+0,INDONESIA,83.7,8.1,0.3,7.9,130543
