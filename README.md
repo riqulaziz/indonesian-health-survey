@@ -1,22 +1,27 @@
-# Indonesian Health Survey  📊
+# Indonesian Health Survey 📊
 
-This repository contains datasets extracted from the Indonesian Health Survey (SKI). The data was collected by scraping information from PDF documents to make it accessible for research and analysis.
+This repository provides datasets derived from the **Indonesian Health Survey (SKI)**. By extracting data from PDFs, we've made it accessible for research, analysis, and decision-making.
 
 ## 📚 About
 
-The dataset includes key insights from the Indonesian Health Survey, such as health facility access, Non-Communicable Disease(NCD), and health of babies and toddlers. This resource is aimed at helping researchers, policymakers, and anyone interested in understanding health trends in Indonesia.
+The dataset highlights key insights from the **Indonesian Health Survey**, including:  
+- Access to health facilities  
+- Non-Communicable Diseases (NCDs)  
+- Health indicators for babies and toddlers  
+
+This resource is designed for **researchers**, **policymakers**, and anyone keen to explore health trends in Indonesia.
 
 ## 🗂 What’s Inside
 
-- **Dataset Files**: Clean and structured data in CSV format.
-- **Source Files**: Links to the original PDFs used for scraping.
-- **Scripts**: Tools and scripts used for extracting the data.
+- **`datasets/`**: Clean and structured data in CSV format.  
+- **`references/`**: Original PDF documents used for data extraction.  
+- **`notebooks/`**: Jupyter Notebooks with code used for scraping and processing data.  
 
 ## 🛠️ How to Use
 
-1. **Download the Dataset**: You can download the dataset directly from the `datasets` folder.
-2. **Explore the Data**: Open the CSV files in Excel, Google Sheets, or your preferred tool.
-3. **Analyze**: Use the data for research, analysis, or visualizations.
+1. **Download the Dataset**: Access files from the `datasets` folder.  
+2. **Explore the Data**: Open CSV files using Excel, Google Sheets, or data analysis tools.  
+3. **Analyze and Visualize**: Utilize the data for research, insights, or visual presentations.
 
 ## 🔗 Useful Links
 
