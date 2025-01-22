@@ -1,0 +1,40 @@
+province_code,province,available_inside_house,available_outside_house,no_handwashing_facility,not_allowed_to_observe,weighted_n
+11,Aceh,56.9,6.8,35.1,1.2,5756
+12,Sumatera Utara,70.0,4.9,24.4,0.7,15884
+13,Sumatera Barat,68.7,5.8,24.8,0.8,6042
+14,Riau,69.1,8.4,22.1,0.4,7051
+15,Jambi,74.6,6.6,18.1,0.7,4051
+16,Sumatera Selatan,72.3,8.5,18.9,0.2,9402
+17,Bengkulu,66.7,8.5,24.4,0.4,2323
+18,Lampung,76.6,11.7,11.6,0.1,10424
+19,Kep. Bangka Belitung,82.5,6.2,10.9,0.4,1707
+21,Kepulauan Riau,86.4,3.5,10.0,0.1,2514
+31,DKI Jakarta,85.6,5.1,9.2,0.2,12317
+32,Jawa Barat,82.7,5.5,11.7,0.1,58510
+33,Jawa Tengah,84.0,9.3,6.6,0.1,44456
+34,DI Yogyakarta,78.2,18.8,3.0,0.0,4957
+35,Jawa Timur,79.4,10.4,10.1,0.1,50588
+36,Banten,77.9,4.4,17.6,0.1,13332
+51,Bali,76.2,21.5,2.3,0.0,5149
+52,Nusa Tenggara Barat,55.9,22.0,22.0,0.1,6849
+53,Nusa Tenggara Timur,17.3,29.4,52.9,0.3,5333
+61,Kalimantan Barat,65.9,8.0,25.5,0.5,5783
+62,Kalimantan Tengah,71.2,6.2,21.8,0.8,3178
+63,Kalimantan Selatan,86.2,7.1,6.5,0.3,5023
+64,Kalimantan Timur,87.4,6.0,6.1,0.5,4319
+65,Kalimantan Utara,84.4,3.6,12.0,0.0,729
+71,Sulawesi Utara,79.4,10.4,10.0,0.3,3031
+72,Sulawesi Tengah,78.1,7.1,14.6,0.2,3215
+73,Sulawesi Selatan,75.4,8.9,15.5,0.3,9483
+74,Sulawesi Tenggara,67.4,6.8,25.2,0.6,2733
+75,Gorontalo,66.9,9.5,22.2,1.4,1260
+76,Sulawesi Barat,71.5,5.8,22.6,0.1,1467
+82,Maluku,53.2,28.6,17.8,0.4,1751
+81,Maluku Utara,60.1,28.4,11.2,0.3,1222
+92,Papua Barat,44.4,15.9,38.0,1.7,563
+96,Papua Barat Daya,58.2,23.4,18.0,0.4,599
+91,Papua,62.8,15.4,21.1,0.7,1029
+93,Papua Selatan,47.0,20.1,31.6,1.3,546
+94,Papua Tengah,30.1,29.0,37.9,3.0,1528
+95,Papua Pegunungan,15.4,22.7,57.5,4.5,1516
+0,INDONESIA,76.1,9.2,14.5,0.3,315621
