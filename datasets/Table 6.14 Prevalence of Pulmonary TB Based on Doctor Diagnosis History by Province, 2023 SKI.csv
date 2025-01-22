@@ -1,0 +1,40 @@
+province_code,province,prevalence_pulmonary_tb,prevalence_pulmonary_tb_95%_CI_lower,prevalence_pulmonary_tb_95%_CI_upper,weighted_n
+11,Aceh,0.31,0.24,0.4,17271
+12,Sumatera Utara,0.17,0.12,0.24,48469
+13,Sumatera Barat,0.29,0.22,0.38,18138
+14,Riau,0.19,0.13,0.28,20925
+15,Jambi,0.13,0.08,0.2,11588
+16,Sumatera Selatan,0.22,0.16,0.3,27532
+17,Bengkulu,0.23,0.15,0.36,6571
+18,Lampung,0.21,0.14,0.3,29331
+19,Kep. Bangka Belitung,0.16,0.1,0.26,4763
+21,Kepulauan Riau,0.1,0.05,0.19,6782
+31,DKI Jakarta,0.4,0.26,0.62,33552
+32,Jawa Barat,0.47,0.4,0.55,156977
+33,Jawa Tengah,0.25,0.2,0.31,118184
+34,DI Yogyakarta,0.23,0.14,0.39,11757
+35,Jawa Timur,0.24,0.19,0.3,130683
+36,Banten,0.43,0.29,0.65,38751
+51,Bali,0.09,0.05,0.18,13859
+52,Nusa Tenggara Barat,0.24,0.15,0.38,17522
+53,Nusa Tenggara Timur,0.29,0.22,0.37,17550
+61,Kalimantan Barat,0.25,0.17,0.35,17713
+62,Kalimantan Tengah,0.24,0.16,0.35,8737
+63,Kalimantan Selatan,0.41,0.3,0.56,13299
+64,Kalimantan Timur,0.2,0.12,0.34,12360
+65,Kalimantan Utara,0.16,0.07,0.33,2300
+71,Sulawesi Utara,0.32,0.23,0.44,8439
+72,Sulawesi Tengah,0.24,0.17,0.35,9721
+73,Sulawesi Selatan,0.28,0.21,0.38,29481
+74,Sulawesi Tenggara,0.25,0.18,0.34,8664
+75,Gorontalo,0.34,0.23,0.52,3821
+76,Sulawesi Barat,0.33,0.19,0.56,4667
+82,Maluku,0.2,0.13,0.3,6050
+81,Maluku Utara,0.29,0.18,0.45,4213
+92,Papua Barat,0.34,0.22,0.53,1795
+96,Papua Barat Daya,0.2,0.13,0.32,1947
+91,Papua,0.58,0.4,0.85,3299
+93,Papua Selatan,0.98,0.66,1.46,1684
+94,Papua Tengah,1.15,0.7,1.89,4577
+95,Papua Pegunungan,0.77,0.46,1.27,4563
+0,INDONESIA,0.3,0.28,0.33,877531

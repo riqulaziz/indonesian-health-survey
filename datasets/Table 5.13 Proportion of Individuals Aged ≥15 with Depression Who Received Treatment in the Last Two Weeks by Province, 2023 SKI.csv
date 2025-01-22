@@ -1,0 +1,39 @@
+province_code,province,depress_receiving_treatment,depress_receiving_treatment_95%_CI_lower,depress_receiving_treatment_95%_CI_upper,weighted_n
+11,Aceh,27.0,18.9,37.1,100
+12,Sumatera Utara,19.9,9.7,36.4,417
+13,Sumatera Barat,18.2,11.6,27.2,98
+14,Riau,12.6,6.8,22.1,92
+15,Jambi,33.5,18.0,53.7,21
+16,Sumatera Selatan,20.2,13.1,29.8,91
+17,Bengkulu,11.7,5.6,22.8,26
+18,Lampung,14.8,7.0,28.6,99
+21,Kepulauan Riau,9.9,6.1,15.6,24
+31,DKI Jakarta,25.1,17.8,34.3,380
+32,Jawa Barat,8.7,6.9,10.9,3748
+33,Jawa Tengah,14.1,10.5,18.6,897
+34,DI Yogyakarta,12.7,7.4,21.0,128
+35,Jawa Timur,14.0,10.2,18.8,648
+36,Banten,15.4,9.5,23.9,479
+51,Bali,10.4,5.6,18.3,16
+52,Nusa Tenggara Barat,7.5,4.5,12.2,156
+53,Nusa Tenggara Timur,9.9,7.1,13.6,129
+61,Kalimantan Barat,12.6,5.8,25.1,60
+62,Kalimantan Tengah,15.6,6.7,32.3,17
+63,Kalimantan Selatan,15.2,8.2,26.3,49
+64,Kalimantan Timur,9.0,5.4,14.6,192
+65,Kalimantan Utara,14.1,3.0,46.4,8
+71,Sulawesi Utara,11.1,7.0,17.3,83
+72,Sulawesi Tengah,16.1,11.4,22.3,102
+73,Sulawesi Selatan,13.0,9.3,17.7,363
+74,Sulawesi Tenggara,17.0,11.2,25.1,47
+75,Gorontalo,25.1,14.5,39.9,29
+76,Sulawesi Barat,34.0,17.7,55.2,20
+82,Maluku,6.1,2.5,14.4,29
+81,Maluku Utara,11.2,5.7,20.9,19
+92,Papua Barat,18.2,11.4,27.9,8
+96,Papua Barat Daya,12.2,4.3,29.9,15
+91,Papua,3.3,1.2,8.7,12
+93,Papua Selatan,7.3,0.9,39.1,5
+94,Papua Tengah,34.4,24.5,45.8,34
+95,Papua Pegunungan,47.9,16.4,81.3,29
+0,INDONESIA,12.7,11.3,14.2,8680

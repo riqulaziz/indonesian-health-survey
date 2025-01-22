@@ -1,0 +1,39 @@
+province_code,province,having_suicidal_thoughts,having_suicidal_thoughts_95%_CI_lower,having_suicidal_thoughts_95%_CI_upper,weighted_n
+11,Aceh,0.15,0.09,0.22,11858
+12,Sumatera Utara,0.23,0.16,0.34,33667
+13,Sumatera Barat,0.18,0.12,0.28,12973
+14,Riau,0.18,0.12,0.28,14408
+15,Jambi,0.09,0.04,0.18,7890
+16,Sumatera Selatan,0.11,0.07,0.17,19282
+17,Bengkulu,0.08,0.03,0.19,4674
+18,Lampung,0.14,0.08,0.25,20646
+21,Kepulauan Riau,0.12,0.07,0.23,4778
+31,DKI Jakarta,0.44,0.28,0.7,24697
+32,Jawa Barat,0.45,0.36,0.56,113568
+33,Jawa Tengah,0.18,0.14,0.23,86668
+34,DI Yogyakarta,0.3,0.19,0.47,8827
+35,Jawa Timur,0.1,0.07,0.14,97746
+36,Banten,0.36,0.21,0.62,27507
+51,Bali,0.06,0.02,0.13,10412
+52,Nusa Tenggara Barat,0.22,0.11,0.46,11964
+53,Nusa Tenggara Timur,0.26,0.2,0.35,11779
+61,Kalimantan Barat,0.06,0.03,0.16,12525
+62,Kalimantan Tengah,0.08,0.04,0.16,6163
+63,Kalimantan Selatan,0.08,0.05,0.13,9301
+64,Kalimantan Timur,0.5,0.35,0.69,8850
+65,Kalimantan Utara,0.23,0.1,0.54,1637
+71,Sulawesi Utara,0.23,0.13,0.42,6178
+72,Sulawesi Tengah,0.35,0.25,0.51,6832
+73,Sulawesi Selatan,0.29,0.2,0.41,21208
+74,Sulawesi Tenggara,0.24,0.16,0.37,5912
+75,Gorontalo,0.11,0.04,0.28,2753
+76,Sulawesi Barat,0.21,0.11,0.42,3171
+82,Maluku,0.17,0.1,0.31,4273
+81,Maluku Utara,0.18,0.1,0.31,2920
+92,Papua Barat,0.57,0.14,2.38,1219
+96,Papua Barat Daya,0.4,0.17,0.92,1359
+91,Papua,0.24,0.06,0.89,2059
+93,Papua Selatan,0.18,0.07,0.43,982
+94,Papua Tengah,1.64,0.78,3.44,3249
+95,Papua Pegunungan,0.21,0.09,0.46,3454
+0,INDONESIA,0.25,0.22,0.27,630827
