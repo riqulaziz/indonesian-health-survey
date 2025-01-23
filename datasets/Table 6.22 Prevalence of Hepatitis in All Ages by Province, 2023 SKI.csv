@@ -1,0 +1,40 @@
+province_code,province,prevalence_hepatitis,prevalence_hepatitis_95%_CI_lower,prevalence_hepatitis_95%_CI_upper,weighted_n
+11,Aceh,0.15,0.09,0.24,17271
+12,Sumatera Utara,0.07,0.04,0.11,48469
+13,Sumatera Barat,0.11,0.07,0.17,18138
+14,Riau,0.06,0.03,0.11,20925
+15,Jambi,0.08,0.05,0.15,11588
+16,Sumatera Selatan,0.09,0.06,0.14,27532
+17,Bengkulu,0.11,0.06,0.2,6571
+18,Lampung,0.08,0.05,0.14,29331
+19,Kep. Bangka Belitung,0.13,0.07,0.23,4763
+21,Kepulauan Riau,0.05,0.03,0.11,6782
+31,DKI Jakarta,0.13,0.07,0.24,33552
+32,Jawa Barat,0.12,0.09,0.17,156977
+33,Jawa Tengah,0.11,0.08,0.14,118184
+34,DI Yogyakarta,0.11,0.05,0.21,11757
+35,Jawa Timur,0.08,0.06,0.11,130683
+36,Banten,0.16,0.1,0.27,38751
+51,Bali,0.08,0.04,0.15,13859
+52,Nusa Tenggara Barat,0.33,0.23,0.47,17522
+53,Nusa Tenggara Timur,0.22,0.17,0.29,17550
+61,Kalimantan Barat,0.12,0.08,0.2,17713
+62,Kalimantan Tengah,0.07,0.04,0.14,8737
+63,Kalimantan Selatan,0.09,0.06,0.14,13299
+64,Kalimantan Timur,0.16,0.1,0.27,12360
+65,Kalimantan Utara,0.14,0.07,0.28,2300
+71,Sulawesi Utara,0.17,0.11,0.28,8439
+72,Sulawesi Tengah,0.16,0.11,0.24,9721
+73,Sulawesi Selatan,0.2,0.15,0.26,29481
+74,Sulawesi Tenggara,0.19,0.13,0.28,8664
+75,Gorontalo,0.12,0.06,0.27,3821
+76,Sulawesi Barat,0.27,0.15,0.46,4667
+82,Maluku,0.13,0.07,0.25,6050
+81,Maluku Utara,0.22,0.1,0.49,4213
+92,Papua Barat,0.22,0.1,0.49,1795
+96,Papua Barat Daya,0.22,0.12,0.4,1947
+91,Papua,0.37,0.24,0.57,3299
+93,Papua Selatan,0.24,0.13,0.46,1684
+94,Papua Tengah,0.88,0.43,1.82,4577
+95,Papua Pegunungan,0.09,0.04,0.23,4563
+0,INDONESIA,0.12,0.11,0.14,877531

@@ -1,0 +1,40 @@
+province_code,province,contacts_pulmonary_tb,contacts_pulmonary_tb_95%_CI_lower,contacts_pulmonary_tb_95%_CI_upper,weighted_n
+11,Aceh,0.1,0.0,0.1,17240
+12,Sumatera Utara,0.0,0.0,0.1,48409
+13,Sumatera Barat,0.2,0.1,0.4,18103
+14,Riau,0.1,0.0,0.2,20903
+15,Jambi,0.1,0.0,0.2,11578
+16,Sumatera Selatan,0.1,0.1,0.2,27501
+17,Bengkulu,0.1,0.0,0.3,6560
+18,Lampung,0.1,0.1,0.3,29307
+19,Kep. Bangka Belitung,0.2,0.1,0.4,4760
+21,Kepulauan Riau,0.1,0.0,0.2,6780
+31,DKI Jakarta,0.4,0.2,0.7,33472
+32,Jawa Barat,0.3,0.2,0.4,156561
+33,Jawa Tengah,0.2,0.1,0.4,118016
+34,DI Yogyakarta,0.5,0.3,0.8,11740
+35,Jawa Timur,0.1,0.1,0.1,130527
+36,Banten,0.3,0.2,0.5,38651
+51,Bali,0.1,0.0,0.2,13849
+52,Nusa Tenggara Barat,0.3,0.2,0.5,17497
+53,Nusa Tenggara Timur,0.2,0.1,0.3,17518
+61,Kalimantan Barat,0.1,0.1,0.2,17689
+62,Kalimantan Tengah,0.0,0.0,0.1,8725
+63,Kalimantan Selatan,0.2,0.1,0.4,13266
+64,Kalimantan Timur,0.3,0.2,0.5,12349
+65,Kalimantan Utara,0.3,0.1,0.8,2297
+71,Sulawesi Utara,0.1,0.1,0.2,8420
+72,Sulawesi Tengah,0.1,0.0,0.3,9710
+73,Sulawesi Selatan,0.1,0.1,0.1,29431
+74,Sulawesi Tenggara,0.1,0.0,0.2,8650
+75,Gorontalo,0.1,0.1,0.3,3814
+76,Sulawesi Barat,0.2,0.1,0.4,4657
+82,Maluku,0.0,0.0,0.1,6043
+81,Maluku Utara,0.0,0.0,0.1,4203
+92,Papua Barat,0.2,0.0,0.7,1791
+96,Papua Barat Daya,0.1,0.0,0.4,1943
+91,Papua,0.1,0.0,0.2,3285
+93,Papua Selatan,0.2,0.1,0.4,1670
+94,Papua Tengah,0.1,0.1,0.3,4546
+95,Papua Pegunungan,0.2,0.1,0.5,4533
+0,INDONESIA,0.2,0.2,0.2,875995

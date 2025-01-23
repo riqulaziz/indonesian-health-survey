@@ -1,0 +1,29 @@
+province_code,province,didnt_feel_sick,afraid_side_effect,cant_take_large_pils,curently_iil,forgot,weighted_n
+11,Aceh,17.4,37.7,30.1,4.5,7.2,1539
+12,Sumatera Utara,6.4,24.3,52.9,1.8,12.1,225
+15,Jambi,11.0,15.9,50.1,1.4,18.5,45
+16,Sumatera Selatan,15.8,33.8,33.8,3.5,8.8,688
+19,Kep. Bangka Belitung,25.3,31.4,21.7,3.7,13.8,176
+21,Kepulauan Riau,7.9,30.3,29.0,3.7,21.3,646
+32,Jawa Barat,13.8,39.5,21.5,3.3,12.5,4530
+33,Jawa Tengah,23.5,37.1,16.4,3.8,10.9,5792
+53,Nusa Tenggara Timur,21.6,19.1,19.1,9.3,23.1,198
+61,Kalimantan Barat,24.9,28.8,26.8,3.9,10.8,1215
+62,Kalimantan Tengah,28.6,18.0,24.5,2.8,23.9,506
+63,Kalimantan Selatan,19.3,34.6,28.5,3.1,11.0,337
+64,Kalimantan Timur,29.9,44.0,9.6,1.3,6.2,141
+65,Kalimantan Utara,15.8,14.7,42.2,6.0,16.8,39
+72,Sulawesi Tengah,16.4,23.9,32.8,3.6,18.1,320
+73,Sulawesi Selatan,43.8,30.8,,,10.6,5
+74,Sulawesi Tenggara,14.2,18.5,38.0,4.1,18.6,199
+75,Gorontalo,13.1,44.7,16.9,1.4,20.6,80
+76,Sulawesi Barat,12.1,25.0,32.7,8.2,14.3,73
+82,Maluku,17.2,30.5,31.9,4.1,11.5,806
+81,Maluku Utara,24.5,9.2,40.2,4.6,14.8,89
+92,Papua Barat,19.3,29.5,25.8,7.0,12.6,143
+96,Papua Barat Daya,7.3,30.2,36.0,3.2,12.8,291
+91,Papua,13.2,20.6,44.7,2.2,16.2,210
+93,Papua Selatan,19.7,16.3,31.1,2.2,30.8,15
+94,Papua Tengah,11.2,18.5,25.7,1.8,40.3,90
+95,Papua Pegunungan,32.0,11.5,32.3,2.7,19.0,73
+0,INDONESIA,18.7,34.4,23.8,3.7,12.4,18471

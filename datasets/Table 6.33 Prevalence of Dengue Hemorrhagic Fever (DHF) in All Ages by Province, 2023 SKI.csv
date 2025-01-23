@@ -1,0 +1,40 @@
+province_code,province,prevalence_dhf,prevalence_dhf_95%_CI_lower,prevalence_dhf_95%_CI_upper,weighted_n
+11,Aceh,0.58,0.47,0.72,17271
+12,Sumatera Utara,0.61,0.49,0.74,48469
+13,Sumatera Barat,0.56,0.44,0.72,18138
+14,Riau,0.53,0.32,0.87,20925
+15,Jambi,0.46,0.33,0.63,11588
+16,Sumatera Selatan,0.44,0.31,0.61,27532
+17,Bengkulu,0.57,0.42,0.77,6571
+18,Lampung,0.34,0.25,0.46,29331
+19,Kep. Bangka Belitung,0.43,0.29,0.64,4763
+21,Kepulauan Riau,0.28,0.13,0.61,6782
+31,DKI Jakarta,1.81,1.12,2.93,33552
+32,Jawa Barat,0.78,0.64,0.94,156977
+33,Jawa Tengah,0.42,0.35,0.5,118184
+34,DI Yogyakarta,0.36,0.24,0.54,11757
+35,Jawa Timur,0.49,0.41,0.6,130683
+36,Banten,0.82,0.6,1.14,38751
+51,Bali,0.48,0.33,0.68,13859
+52,Nusa Tenggara Barat,0.64,0.45,0.9,17522
+53,Nusa Tenggara Timur,0.69,0.55,0.85,17550
+61,Kalimantan Barat,0.4,0.3,0.55,17713
+62,Kalimantan Tengah,0.4,0.28,0.55,8737
+63,Kalimantan Selatan,0.47,0.34,0.65,13299
+64,Kalimantan Timur,0.72,0.54,0.95,12360
+65,Kalimantan Utara,0.53,0.33,0.86,2300
+71,Sulawesi Utara,0.5,0.38,0.66,8439
+72,Sulawesi Tengah,0.68,0.53,0.87,9721
+73,Sulawesi Selatan,0.77,0.63,0.94,29481
+74,Sulawesi Tenggara,0.58,0.42,0.81,8664
+75,Gorontalo,0.26,0.17,0.41,3821
+76,Sulawesi Barat,0.54,0.36,0.8,4667
+82,Maluku,0.3,0.2,0.46,6050
+81,Maluku Utara,0.59,0.41,0.83,4213
+92,Papua Barat,0.73,0.45,1.18,1795
+96,Papua Barat Daya,0.52,0.31,0.88,1947
+91,Papua,1.46,1.05,2.03,3299
+93,Papua Selatan,1.56,0.93,2.62,1684
+94,Papua Tengah,3.9,2.56,5.9,4577
+95,Papua Pegunungan,1.07,0.66,1.73,4563
+0,INDONESIA,0.64,0.59,0.7,877531
