@@ -1,0 +1,39 @@
+province_code,province,stroke_based_doctor_diagnosis,stroke_based_doctor_diagnosis_95%_CI_lower,stroke_based_doctor_diagnosis_95%_CI_upper,weighted_n
+11,Aceh,8.8,7.5,10.3,12053
+12,Sumatera Utara,6.6,5.5,8.1,33884
+13,Sumatera Barat,8.8,7.5,10.3,13042
+14,Riau,7.7,6.2,9.5,14599
+15,Jambi,5.0,3.8,6.5,8242
+16,Sumatera Selatan,6.3,5.2,7.7,19474
+17,Bengkulu,6.0,4.4,8.0,4687
+18,Lampung,7.9,6.4,9.7,21021
+19,Kep. Bangka Belitung,9.5,7.7,11.9,3451
+21,Kepulauan Riau,8.9,6.0,13.1,4780
+31,DKI Jakarta,10.7,8.5,13.5,24981
+32,Jawa Barat,10.0,8.8,11.3,114619
+33,Jawa Tengah,8.4,7.4,9.4,88180
+34,DI Yogyakarta,11.4,9.0,14.4,8988
+35,Jawa Timur,9.0,8.1,10.0,98738
+36,Banten,7.3,5.4,9.7,27784
+51,Bali,6.2,4.8,8.0,10476
+52,Nusa Tenggara Barat,6.6,5.1,8.5,12186
+53,Nusa Tenggara Timur,5.9,4.9,7.1,11853
+61,Kalimantan Barat,7.4,6.0,9.0,12637
+62,Kalimantan Tengah,6.3,4.8,8.2,6286
+63,Kalimantan Selatan,9.5,8.0,11.2,9352
+64,Kalimantan Timur,10.0,8.0,12.6,8929
+65,Kalimantan Utara,5.9,3.9,8.7,1654
+71,Sulawesi Utara,11.3,9.3,13.8,6239
+72,Sulawesi Tengah,7.5,6.0,9.3,6851
+73,Sulawesi Selatan,7.9,6.7,9.4,21459
+74,Sulawesi Tenggara,6.6,5.3,8.2,5977
+76,Sulawesi Barat,4.8,3.3,7.0,3212
+82,Maluku,5.0,3.7,6.6,4299
+81,Maluku Utara,4.5,3.3,6.1,2938
+92,Papua Barat,4.8,2.7,8.5,1259
+96,Papua Barat Daya,6.6,3.3,13.0,1387
+91,Papua,3.7,2.3,6.1,2114
+93,Papua Selatan,4.8,2.7,8.5,987
+94,Papua Tengah,2.0,1.0,4.0,3304
+95,Papua Pegunungan,0.9,0.3,2.9,3496
+0,INDONESIA,8.3,8.0,8.7,638178

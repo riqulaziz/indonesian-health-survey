@@ -1,0 +1,39 @@
+province_code,province,regularly_hypertension_control,occasionally_hypertension_control,disobeyed_hypertension_control,weighted_n
+11,Aceh,37.8,52.5,9.7,1000
+12,Sumatera Utara,38.1,46.4,15.5,1545
+13,Sumatera Barat,43.8,39.3,16.9,975
+14,Riau,42.5,42.3,15.2,1037
+15,Jambi,40.8,50.4,8.8,458
+16,Sumatera Selatan,44.2,42.9,13.0,1479
+17,Bengkulu,37.9,46.3,15.7,338
+18,Lampung,35.0,45.4,19.6,1632
+19,Kep. Bangka Belitung,49.0,37.4,13.6,321
+21,Kepulauan Riau,57.1,31.8,11.1,368
+31,DKI Jakarta,55.8,27.5,16.7,3312
+32,Jawa Barat,40.7,38.3,21.0,11952
+33,Jawa Tengah,39.0,36.8,24.3,6397
+34,DI Yogyakarta,50.8,23.7,25.5,1162
+35,Jawa Timur,41.8,37.5,20.7,8349
+36,Banten,45.4,37.0,17.6,2760
+51,Bali,59.7,29.6,10.7,848
+52,Nusa Tenggara Barat,37.5,47.4,15.1,868
+53,Nusa Tenggara Timur,40.5,39.2,20.3,780
+61,Kalimantan Barat,44.2,43.4,12.4,1013
+62,Kalimantan Tengah,40.5,47.4,12.2,522
+63,Kalimantan Selatan,44.3,43.9,11.8,807
+64,Kalimantan Timur,47.3,34.1,18.6,1043
+65,Kalimantan Utara,51.3,37.8,10.9,125
+71,Sulawesi Utara,57.4,31.8,10.8,792
+72,Sulawesi Tengah,43.2,39.2,17.6,599
+73,Sulawesi Selatan,48.3,38.4,13.3,1506
+74,Sulawesi Tenggara,38.3,46.0,15.7,331
+76,Sulawesi Barat,39.5,46.5,13.9,219
+82,Maluku,49.3,37.8,13.0,194
+81,Maluku Utara,39.8,44.7,15.5,137
+92,Papua Barat,42.2,40.3,17.4,79
+96,Papua Barat Daya,45.8,38.4,15.8,85
+91,Papua,42.7,35.8,21.5,156
+93,Papua Selatan,42.9,38.8,18.3,64
+94,Papua Tengah,41.6,38.0,20.4,102
+95,Papua Pegunungan,20.4,25.7,53.9,79
+0,INDONESIA,43.1,38.2,18.7,53668
