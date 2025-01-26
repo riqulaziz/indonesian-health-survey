@@ -1,0 +1,39 @@
+province_code,province,anti_dm_medication_by_medical_personel,anti_dm_medication_by_self_purchase,insulin_injection,combination_anti_dm_and_injection,no_need_dm_medication_yet,weighted_n
+11,Aceh,49.2,24.0,4.8,11.2,7.1,285
+12,Sumatera Utara,54.0,25.3,2.7,9.3,6.5,684
+13,Sumatera Barat,60.6,9.5,6.3,12.8,7.6,226
+14,Riau,59.3,17.1,2.0,10.1,7.1,318
+15,Jambi,60.5,15.8,4.7,13.0,3.2,109
+16,Sumatera Selatan,56.1,16.2,6.1,10.8,7.3,333
+17,Bengkulu,62.7,18.1,1.9,8.3,7.7,70
+18,Lampung,64.2,15.3,2.1,7.3,7.1,349
+19,Kep. Bangka Belitung,63.0,18.4,4.9,7.3,3.2,102
+21,Kepulauan Riau,58.4,15.0,4.0,15.2,6.8,110
+31,DKI Jakarta,62.6,16.0,3.9,8.5,6.8,1034
+32,Jawa Barat,54.1,24.6,2.4,11.9,4.2,2607
+33,Jawa Tengah,59.3,17.6,2.9,12.3,4.9,2146
+34,DI Yogyakarta,62.9,12.0,8.5,9.6,3.2,337
+35,Jawa Timur,55.7,20.5,2.7,15.1,3.3,2831
+36,Banten,61.7,20.6,2.4,11.6,2.2,735
+51,Bali,62.0,7.8,12.8,13.7,1.9,231
+52,Nusa Tenggara Barat,58.8,18.3,6.8,12.7,2.4,232
+53,Nusa Tenggara Timur,54.4,17.8,2.1,13.7,9.7,125
+61,Kalimantan Barat,53.7,17.7,2.2,15.2,6.9,220
+62,Kalimantan Tengah,54.4,19.0,6.3,11.2,5.8,123
+63,Kalimantan Selatan,58.3,15.3,5.0,11.8,6.9,182
+64,Kalimantan Timur,56.6,17.2,6.3,8.0,6.9,291
+65,Kalimantan Utara,60.9,11.0,12.5,7.2,8.2,34
+71,Sulawesi Utara,56.9,17.2,8.0,10.8,4.0,175
+72,Sulawesi Tengah,56.2,13.7,5.3,11.0,8.8,161
+73,Sulawesi Selatan,55.5,16.6,5.0,10.0,8.9,455
+74,Sulawesi Tenggara,57.8,21.5,4.8,4.9,7.6,100
+76,Sulawesi Barat,64.1,11.1,2.8,6.0,12.5,47
+82,Maluku,63.1,10.7,7.9,7.7,8.1,39
+81,Maluku Utara,55.0,9.6,6.7,14.2,7.5,36
+92,Papua Barat,65.3,14.9,1.5,9.1,4.2,19
+96,Papua Barat Daya,52.8,22.1,6.2,14.4,3.4,20
+91,Papua,63.0,16.5,1.3,5.5,6.4,41
+93,Papua Selatan,60.6,8.1,0.0,18.7,0.0,18
+94,Papua Tengah,50.2,9.1,5.3,16.1,7.1,33
+95,Papua Pegunungan,12.1,0.0,0.0,15.6,30.3,8
+0,INDONESIA,57.4,19.2,3.6,11.8,5.0,14935

@@ -1,0 +1,39 @@
+province_code,province,asthma_recurrence_in_12_month,asthma_recurrence_in_12_month_95%_CI_lower,asthma_recurrence_in_12_month_95%_CI_upper,weighted_n
+11,Aceh,67.8,60.9,74.0,162
+12,Sumatera Utara,64.3,54.9,72.6,232
+13,Sumatera Barat,70.7,65.2,75.6,252
+14,Riau,68.5,60.6,75.5,230
+15,Jambi,64.8,54.6,73.9,84
+16,Sumatera Selatan,66.9,60.3,73.0,308
+17,Bengkulu,69.5,61.0,76.8,83
+18,Lampung,61.3,53.4,68.6,367
+19,Kep. Bangka Belitung,60.3,52.5,67.6,71
+21,Kepulauan Riau,62.5,51.1,72.6,106
+31,DKI Jakarta,45.1,37.3,53.2,598
+32,Jawa Barat,55.9,52.2,59.6,3453
+33,Jawa Tengah,55.6,51.2,59.9,1394
+34,DI Yogyakarta,44.6,38.8,50.4,381
+35,Jawa Timur,62.2,58.8,65.5,2061
+36,Banten,50.6,43.1,58.1,700
+51,Bali,57.4,51.3,63.3,254
+52,Nusa Tenggara Barat,65.6,58.4,72.1,367
+53,Nusa Tenggara Timur,56.8,51.5,61.9,216
+61,Kalimantan Barat,61.9,55.2,68.2,254
+62,Kalimantan Tengah,57.7,50.9,64.2,139
+63,Kalimantan Selatan,60.5,54.6,66.2,204
+64,Kalimantan Timur,58.3,51.7,64.5,280
+65,Kalimantan Utara,54.1,41.2,66.5,39
+71,Sulawesi Utara,61.8,54.8,68.4,78
+72,Sulawesi Tengah,64.2,57.2,70.6,189
+73,Sulawesi Selatan,63.1,57.1,68.7,363
+74,Sulawesi Tenggara,65.7,59.2,71.7,132
+76,Sulawesi Barat,66.9,55.1,76.9,49
+82,Maluku,60.3,50.7,69.2,61
+81,Maluku Utara,51.5,41.3,61.5,41
+92,Papua Barat,61.3,49.3,72.0,21
+96,Papua Barat Daya,53.5,36.6,69.7,29
+91,Papua,69.6,56.1,80.4,42
+93,Papua Selatan,67.4,54.9,77.9,36
+94,Papua Tengah,42.6,27.8,58.8,61
+95,Papua Pegunungan,51.8,35.3,67.9,30
+0,INDONESIA,58.3,56.8,59.7,13418

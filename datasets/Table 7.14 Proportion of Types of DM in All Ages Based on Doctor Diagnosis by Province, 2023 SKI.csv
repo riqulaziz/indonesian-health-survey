@@ -1,0 +1,39 @@
+province_code,province,diabetes_type_1,diabetes_type_2,gestational_diabetes,unknown,weighted_n
+11,Aceh,19.9,54.8,1.7,23.6,285
+12,Sumatera Utara,17.6,59.6,4.5,18.3,684
+13,Sumatera Barat,22.9,58.5,0.9,17.7,226
+14,Riau,25.5,53.3,0.6,20.6,318
+15,Jambi,24.1,55.7,2.4,17.8,109
+16,Sumatera Selatan,27.2,44.3,0.3,28.2,333
+17,Bengkulu,14.4,49.1,11.3,25.2,70
+18,Lampung,23.8,44.4,0.9,30.9,349
+19,Kep. Bangka Belitung,12.0,63.4,0.5,24.1,102
+21,Kepulauan Riau,26.8,50.4,0.0,22.7,110
+31,DKI Jakarta,18.1,47.9,5.6,28.4,1034
+32,Jawa Barat,15.3,50.0,2.3,32.5,2607
+33,Jawa Tengah,14.2,47.4,3.2,35.2,2146
+34,DI Yogyakarta,15.7,50.6,5.2,28.6,337
+35,Jawa Timur,11.2,51.6,2.2,35.0,2831
+36,Banten,14.6,51.9,2.0,31.5,735
+51,Bali,11.8,52.0,0.0,36.2,231
+52,Nusa Tenggara Barat,27.7,57.2,2.3,12.8,232
+53,Nusa Tenggara Timur,19.0,45.9,3.7,31.4,125
+61,Kalimantan Barat,17.9,65.1,0.9,16.0,220
+62,Kalimantan Tengah,24.5,56.4,0.3,18.8,123
+63,Kalimantan Selatan,24.0,52.6,4.5,19.0,182
+64,Kalimantan Timur,15.2,50.4,1.8,32.6,291
+65,Kalimantan Utara,23.7,49.4,0.6,26.3,34
+71,Sulawesi Utara,31.9,42.4,1.9,23.8,175
+72,Sulawesi Tengah,28.4,40.1,2.2,29.4,161
+73,Sulawesi Selatan,22.7,44.4,0.5,32.4,455
+74,Sulawesi Tenggara,27.9,40.7,1.5,29.8,100
+76,Sulawesi Barat,35.3,23.9,5.6,35.2,47
+82,Maluku,20.9,44.7,16.7,17.7,39
+81,Maluku Utara,27.0,26.1,2.0,45.0,36
+92,Papua Barat,35.3,31.3,3.0,30.4,19
+96,Papua Barat Daya,25.6,25.3,3.4,45.7,20
+91,Papua,20.0,45.3,2.1,32.5,41
+93,Papua Selatan,18.4,43.1,0.0,38.5,18
+94,Papua Tengah,20.9,33.0,3.0,43.1,33
+95,Papua Pegunungan,20.0,28.1,0.0,51.9,8
+0,INDONESIA,16.9,50.2,2.6,30.3,14935
