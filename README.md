@@ -27,6 +27,13 @@ This resource is designed for **researchers**, **policymakers**, and anyone keen
 
 - [Survey Kesehatan Indonesia 2023](https://www.badankebijakan.kemkes.go.id/hasil-ski-2023/)
 
+## ⚠️ **Important**  
+This dataset contains only publicly shared, aggregated statistics from official sources.  
+It does NOT include any:  
+- Individual patient records  
+- Personally identifiable information (PII)  
+- Sensitive health data  
+
 ---
 
 > Made with ❤️ by [Thoriqul Aziz](https://github.com/riqulaziz)
