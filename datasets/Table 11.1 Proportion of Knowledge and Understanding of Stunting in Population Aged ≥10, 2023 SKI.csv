@@ -1,0 +1,40 @@
+province_code,province,correct_knowledge_of_stunted_children,correct_knowledge_of_stunted_children_95%_CI_lower,correct_knowledge_of_stunted_children_95%_CI_upper,weighted_n
+11,Aceh,78.7,76.6,80.6,3085
+12,Sumatera Utara,75.1,72.8,77.2,6743
+13,Sumatera Barat,73.4,71.5,75.3,3219
+14,Riau,75.8,73.0,78.3,3031
+15,Jambi,82.9,80.6,84.9,2028
+16,Sumatera Selatan,70.0,67.3,72.6,3203
+17,Bengkulu,77.0,74.2,79.6,1079
+18,Lampung,71.4,68.8,73.8,4539
+19,Kep. Bangka Belitung,78.3,75.2,81.1,981
+21,Kepulauan Riau,74.9,71.0,78.4,922
+31,DKI Jakarta,66.6,63.6,69.5,5758
+32,Jawa Barat,67.7,66.2,69.2,25632
+33,Jawa Tengah,66.8,65.7,68.0,27788
+34,DI Yogyakarta,70.0,67.4,72.4,3821
+35,Jawa Timur,65.5,64.0,66.9,22192
+36,Banten,70.4,67.6,73.1,4880
+51,Bali,76.7,74.2,79.0,2597
+52,Nusa Tenggara Barat,67.7,64.7,70.5,2979
+53,Nusa Tenggara Timur,64.2,62.3,66.1,4710
+61,Kalimantan Barat,73.6,70.8,76.2,3053
+62,Kalimantan Tengah,75.7,72.7,78.5,1336
+63,Kalimantan Selatan,72.5,70.1,74.7,2436
+64,Kalimantan Timur,73.8,70.8,76.6,2397
+65,Kalimantan Utara,81.3,76.9,85.0,397
+71,Sulawesi Utara,75.2,72.8,77.5,1513
+72,Sulawesi Tengah,62.4,59.8,64.9,1951
+73,Sulawesi Selatan,68.0,66.1,69.9,5064
+74,Sulawesi Tenggara,71.1,68.9,73.3,1365
+75,Gorontalo,72.7,68.8,76.2,571
+76,Sulawesi Barat,67.1,63.8,70.4,777
+82,Maluku,71.4,67.3,75.1,941
+81,Maluku Utara,74.4,70.9,77.5,438
+92,Papua Barat,84.3,79.6,88.1,209
+96,Papua Barat Daya,63.4,57.9,68.5,281
+91,Papua,81.0,75.9,85.3,407
+93,Papua Selatan,81.3,75.1,86.2,114
+94,Papua Tengah,83.7,60.7,94.5,418
+95,Papua Pegunungan,80.6,71.3,87.5,213
+0,INDONESIA,69.4,68.9,69.8,153068

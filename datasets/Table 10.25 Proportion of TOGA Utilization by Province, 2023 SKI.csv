@@ -1,0 +1,40 @@
+province_code,province,toga_utilization,toga_utilization_95%_CI_lower,toga_utilization_95%_CI_upper,weighted_n
+11,Aceh,10.2,9.2,11.3,16637
+12,Sumatera Utara,9.4,8.6,10.3,40389
+13,Sumatera Barat,20.9,19.4,22.4,15175
+14,Riau,8.9,7.7,10.3,18210
+15,Jambi,11.7,10.4,13.1,10529
+16,Sumatera Selatan,7.1,6.3,8.0,21829
+17,Bengkulu,13.4,12.0,15.0,5744
+18,Lampung,10.5,9.4,11.7,21448
+19,Kep. Bangka Belitung,5.9,4.9,7.0,4164
+21,Kepulauan Riau,2.3,1.7,3.1,5513
+31,DKI Jakarta,3.6,2.9,4.6,22630
+32,Jawa Barat,10.4,9.8,11.2,110911
+33,Jawa Tengah,11.0,10.3,11.7,75408
+34,DI Yogyakarta,21.7,19.5,24.1,6706
+35,Jawa Timur,7.7,7.1,8.3,69245
+36,Banten,6.0,5.1,7.1,27912
+51,Bali,8.2,6.4,10.3,12225
+52,Nusa Tenggara Barat,5.0,4.3,5.8,14212
+53,Nusa Tenggara Timur,17.2,16.1,18.4,15336
+61,Kalimantan Barat,8.8,7.7,10.0,15988
+62,Kalimantan Tengah,7.5,6.4,8.7,6942
+63,Kalimantan Selatan,4.6,4.0,5.4,8002
+64,Kalimantan Timur,11.7,10.3,13.3,8757
+65,Kalimantan Utara,8.4,6.8,10.4,2141
+71,Sulawesi Utara,11.6,10.4,13.0,6913
+72,Sulawesi Tengah,11.2,10.0,12.6,8328
+73,Sulawesi Selatan,14.6,13.8,15.6,27897
+74,Sulawesi Tenggara,5.1,4.5,5.8,7955
+75,Gorontalo,5.4,4.6,6.5,2928
+76,Sulawesi Barat,12.4,10.5,14.6,4416
+82,Maluku,7.2,6.2,8.2,5219
+81,Maluku Utara,13.9,12.3,15.6,3647
+92,Papua Barat,9.5,7.8,11.6,1645
+96,Papua Barat Daya,14.2,12.1,16.5,1725
+91,Papua,11.4,9.5,13.5,2911
+93,Papua Selatan,11.3,8.8,14.3,1541
+94,Papua Tengah,20.4,15.1,27.0,3822
+95,Papua Pegunungan,22.8,18.7,27.5,4630
+0,INDONESIA,10.0,9.8,10.2,639628

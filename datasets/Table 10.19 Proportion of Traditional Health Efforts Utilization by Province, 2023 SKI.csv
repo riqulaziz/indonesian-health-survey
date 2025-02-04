@@ -1,0 +1,40 @@
+province_code,province,yankestrad_utilization,yankestrad_utilization_95%_CI_lower,yankestrad_utilization_95%_CI_upper,weighted_n
+11,Aceh,10.7,10.1,11.4,17270
+12,Sumatera Utara,22.8,21.6,24.0,48468
+13,Sumatera Barat,22.5,21.4,23.6,18137
+14,Riau,19.4,18.2,20.6,20924
+15,Jambi,15.8,14.7,17.0,11588
+16,Sumatera Selatan,26.5,25.1,28.0,27531
+17,Bengkulu,19.0,17.6,20.5,6570
+18,Lampung,32.2,30.8,33.7,29330
+19,Kep. Bangka Belitung,19.0,17.7,20.4,4762
+21,Kepulauan Riau,24.7,22.4,27.1,6782
+31,DKI Jakarta,37.5,35.4,39.7,33551
+32,Jawa Barat,34.5,33.5,35.5,156972
+33,Jawa Tengah,40.9,40.0,41.8,118181
+34,DI Yogyakarta,47.1,45.2,49.1,11756
+35,Jawa Timur,50.9,50.0,51.8,130679
+36,Banten,33.3,31.2,35.4,38750
+51,Bali,18.3,16.8,19.8,13858
+52,Nusa Tenggara Barat,24.8,23.2,26.5,17521
+53,Nusa Tenggara Timur,19.0,18.0,20.1,17549
+61,Kalimantan Barat,16.4,15.3,17.5,17713
+62,Kalimantan Tengah,26.4,24.7,28.1,8737
+63,Kalimantan Selatan,44.2,42.5,46.0,13298
+64,Kalimantan Timur,34.3,32.7,36.0,12359
+65,Kalimantan Utara,13.7,12.0,15.6,2300
+71,Sulawesi Utara,24.1,22.8,25.5,8439
+72,Sulawesi Tengah,20.6,19.4,21.9,9720
+73,Sulawesi Selatan,12.3,11.6,13.1,29480
+74,Sulawesi Tenggara,14.9,13.9,16.0,8664
+75,Gorontalo,29.0,26.6,31.4,3818
+76,Sulawesi Barat,12.3,11.0,13.7,4667
+82,Maluku,20.1,18.7,21.5,6048
+81,Maluku Utara,19.8,18.1,21.6,4212
+92,Papua Barat,15.1,13.0,17.4,1794
+96,Papua Barat Daya,17.8,15.6,20.2,1944
+91,Papua,18.2,16.5,20.1,3298
+93,Papua Selatan,15.2,12.7,18.1,1684
+94,Papua Tengah,22.6,15.9,31.1,4577
+95,Papua Pegunungan,6.0,4.9,7.2,4563
+0,INDONESIA,32.5,32.1,32.8,877495
