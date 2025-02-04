@@ -1,0 +1,40 @@
+province_code,province,using_antibiotic_oral_within_1_year,using_antibiotic_oral_within_1_year_95%_CI_lower,using_antibiotic_oral_within_1_year_95%_CI_upper,weighted_n_using_antibiotic_oral_within_1_year,obtain_antibiotic_with_doctor_prescription,obtain_antibiotic_without_doctor_prescription,weighted_n_obtain_antibiotic
+11,Aceh,17.5,16.4,18.7,11581,69.9,30.1,2211
+12,Sumatera Utara,15.5,14.5,16.7,32896,59.0,41.0,5560
+13,Sumatera Barat,19.6,18.5,20.8,12643,60.1,39.9,2698
+14,Riau,10.2,9.2,11.3,14069,66.5,33.5,1564
+15,Jambi,14.5,12.8,16.3,7698,67.8,32.2,1215
+16,Sumatera Selatan,19.7,18.4,21.1,18842,51.5,48.5,4040
+17,Bengkulu,20.4,18.7,22.2,4586,47.4,52.6,1017
+18,Lampung,16.6,15.4,17.8,20152,60.9,39.1,3635
+19,Kep. Bangka Belitung,15.3,13.7,17.1,3374,55.3,44.7,564
+21,Kepulauan Riau,15.2,13.5,17.2,4672,79.5,20.5,776
+31,DKI Jakarta,26.5,24.8,28.3,24220,73.1,26.9,6985
+32,Jawa Barat,28.1,27.2,29.0,110887,68.6,31.4,33950
+33,Jawa Tengah,16.0,15.4,16.6,84383,75.8,24.2,14722
+34,DI Yogyakarta,18.4,17.1,19.7,8611,91.3,8.7,1722
+35,Jawa Timur,18.5,17.8,19.3,95648,50.2,49.8,19293
+36,Banten,20.5,18.9,22.2,26985,83.1,16.9,6022
+51,Bali,18.0,16.7,19.5,10159,84.6,15.4,1995
+52,Nusa Tenggara Barat,29.0,27.2,30.8,11692,37.7,62.3,3691
+53,Nusa Tenggara Timur,38.6,37.3,40.0,11447,36.9,63.1,4814
+61,Kalimantan Barat,16.1,14.6,17.7,12214,82.0,18.0,2141
+62,Kalimantan Tengah,27.4,25.5,29.4,6011,31.6,68.4,1794
+63,Kalimantan Selatan,31.6,29.9,33.3,9113,27.6,72.4,3134
+64,Kalimantan Timur,23.6,22.0,25.3,8665,63.2,36.8,2230
+65,Kalimantan Utara,16.8,14.8,19.0,1616,60.2,39.8,296
+71,Sulawesi Utara,42.2,40.3,44.1,6047,34.1,65.9,2776
+72,Sulawesi Tengah,37.3,35.6,39.0,6657,22.4,77.6,2704
+73,Sulawesi Selatan,29.9,28.8,31.0,20592,30.8,69.2,6702
+74,Sulawesi Tenggara,26.3,24.8,28.0,5743,32.1,67.9,1646
+75,Gorontalo,41.5,38.7,44.3,2704,32.4,67.6,1220
+76,Sulawesi Barat,19.8,17.8,22.0,3093,44.5,55.5,668
+82,Maluku,34.0,31.9,36.3,4169,25.5,74.5,1545
+81,Maluku Utara,40.8,38.2,43.4,2830,22.1,77.9,1257
+92,Papua Barat,31.3,27.5,35.2,1192,56.8,43.2,406
+96,Papua Barat Daya,33.9,30.9,37.0,1334,52.3,47.7,492
+91,Papua,38.9,35.8,42.2,2026,71.7,28.3,859
+93,Papua Selatan,22.4,19.0,26.2,966,73.7,26.3,236
+94,Papua Tengah,25.0,18.1,33.4,3206,59.0,41.0,873
+95,Papua Pegunungan,24.8,21.4,28.6,3386,81.6,18.4,916
+0,INDONESIA,22.1,21.8,22.4,616110,59.0,41.0,148367

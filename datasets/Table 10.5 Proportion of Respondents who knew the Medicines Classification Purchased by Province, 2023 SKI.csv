@@ -1,0 +1,40 @@
+province_code,province,respondent_knows_med_clasification_etc,respondent_knows_med_clasification_etc_95%_CI_lower,respondent_knows_med_clasification_etc_95%_CI_upper,weighted_n
+11,Aceh,12.6,11.3,14.0,2894
+12,Sumatera Utara,12.7,11.5,14.1,9900
+13,Sumatera Barat,12.9,11.8,14.1,4467
+14,Riau,12.4,10.9,14.2,4287
+15,Jambi,9.7,8.3,11.3,2065
+16,Sumatera Selatan,9.3,8.1,10.6,6637
+17,Bengkulu,15.0,12.9,17.3,1531
+18,Lampung,10.3,9.0,11.7,7845
+19,Kep. Bangka Belitung,11.5,9.9,13.2,1362
+21,Kepulauan Riau,19.4,16.5,22.7,1472
+31,DKI Jakarta,30.9,28.3,33.7,11659
+32,Jawa Barat,19.4,18.4,20.4,57779
+33,Jawa Tengah,13.8,13.1,14.6,43373
+34,DI Yogyakarta,32.6,30.4,34.9,4513
+35,Jawa Timur,14.0,13.3,14.8,43369
+36,Banten,17.4,15.7,19.2,11528
+51,Bali,22.4,20.3,24.6,2749
+52,Nusa Tenggara Barat,12.5,11.1,14.1,4755
+53,Nusa Tenggara Timur,13.5,12.4,14.8,3855
+61,Kalimantan Barat,16.7,14.7,18.9,4544
+62,Kalimantan Tengah,13.2,11.6,15.0,2326
+63,Kalimantan Selatan,15.1,13.8,16.4,4651
+64,Kalimantan Timur,26.4,24.2,28.7,3765
+65,Kalimantan Utara,26.2,21.1,32.1,488
+71,Sulawesi Utara,14.9,13.4,16.5,2532
+72,Sulawesi Tengah,11.8,10.5,13.2,3257
+73,Sulawesi Selatan,15.4,14.3,16.5,8892
+74,Sulawesi Tenggara,13.6,12.0,15.3,2085
+75,Gorontalo,12.0,10.3,14.0,1419
+76,Sulawesi Barat,13.9,11.8,16.4,959
+82,Maluku,9.0,7.7,10.5,1371
+81,Maluku Utara,9.9,8.6,11.3,1175
+92,Papua Barat,21.5,17.1,26.7,303
+96,Papua Barat Daya,20.9,17.0,25.3,496
+91,Papua,19.2,15.6,23.5,719
+93,Papua Selatan,24.8,19.6,30.9,216
+94,Papua Tengah,10.4,4.8,20.8,564
+95,Papua Pegunungan,23.5,17.7,30.4,225
+0,INDONESIA,16.3,16.0,16.7,266027
