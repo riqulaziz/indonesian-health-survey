@@ -1,0 +1,40 @@
+province_code,province,avg_cigarette_price,SD_cigarette_price,weighted_n
+11,Aceh,22397,9617,3102
+12,Sumatera Utara,21320,8882,8230
+13,Sumatera Barat,19848,9005,3881
+14,Riau,21056,8312,3715
+15,Jambi,22543,8072,1741
+16,Sumatera Selatan,19010,8943,5210
+17,Bengkulu,19255,9265,1302
+18,Lampung,18222,7895,6234
+19,Kep. Bangka Belitung,24114,8600,821
+21,Kepulauan Riau,18813,9916,1151
+31,DKI Jakarta,22229,7705,6664
+32,Jawa Barat,19949,7239,38995
+33,Jawa Tengah,18531,7704,25985
+34,DI Yogyakarta,18086,8301,2555
+35,Jawa Timur,17431,8179,27249
+36,Banten,20656,7904,8547
+51,Bali,21820,8251,2027
+52,Nusa Tenggara Barat,21847,12209,3857
+53,Nusa Tenggara Timur,18479,8359,3037
+61,Kalimantan Barat,21135,8099,3037
+62,Kalimantan Tengah,22024,7970,1482
+63,Kalimantan Selatan,19335,7861,1959
+64,Kalimantan Timur,23029,8198,2072
+65,Kalimantan Utara,24163,8339,340
+71,Sulawesi Utara,23447,7989,1633
+72,Sulawesi Tengah,21447,8634,2005
+73,Sulawesi Selatan,22076,8297,5538
+74,Sulawesi Tenggara,22656,8749,1343
+75,Gorontalo,23889,10387,777
+76,Sulawesi Barat,19644,7044,781
+82,Maluku,27885,11035,1092
+81,Maluku Utara,27365,11259,740
+92,Papua Barat,29463,10574,282
+96,Papua Barat Daya,26222,11384,336
+91,Papua,29752,10117,520
+93,Papua Selatan,23728,13733,311
+94,Papua Tengah,25072,13449,502
+95,Papua Pegunungan,27340,13778,495
+0,INDONESIA,19960,8486,179548

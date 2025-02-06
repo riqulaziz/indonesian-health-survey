@@ -1,0 +1,40 @@
+province_code,province,avg_num_cigarettes_per_day,SD_num_cigarettes_per_day,weighted_n_cigarettes_per_day,avg_num_cigarettes_per_week,SD_num_cigarettes_per_week,weighted_n_cigarettes_per_week
+11,Aceh,14.44,7.72,2522,11.11,8.29,579
+12,Sumatera Utara,13.52,7.08,6687,9.5,7.6,1540
+13,Sumatera Barat,15.36,8.24,3369,10.31,10.14,517
+14,Riau,15.4,7.56,3237,11.19,9.38,483
+15,Jambi,15.29,7.32,1431,12.83,8.88,310
+16,Sumatera Selatan,13.04,6.61,4504,9.71,6.1,712
+17,Bengkulu,14.19,6.87,1131,12.63,10.47,173
+18,Lampung,12.33,7.3,5466,9.53,8.97,778
+19,Kep. Bangka Belitung,16.42,7.98,728,11.68,10.1,94
+21,Kepulauan Riau,14.68,7.63,999,11.83,9.76,154
+31,DKI Jakarta,11.53,8.96,5031,8.51,9.13,1619
+32,Jawa Barat,10.97,7.49,32163,6.91,7.37,6831
+33,Jawa Tengah,10.64,6.97,21226,8.06,8.31,4752
+34,DI Yogyakarta,10.98,9.23,1827,7.73,10.63,719
+35,Jawa Timur,11.2,7.48,22847,9.69,9.95,4412
+36,Banten,12.46,7.67,6966,8.76,8.12,1578
+51,Bali,11.84,6.96,1657,7.82,7.09,370
+52,Nusa Tenggara Barat,11.9,7.88,3478,7.02,8.38,388
+53,Nusa Tenggara Timur,10.99,7.95,2370,7.51,6.8,663
+61,Kalimantan Barat,15.16,7.45,2530,11.69,10.45,508
+62,Kalimantan Tengah,15.52,7.71,1244,11.22,9.3,238
+63,Kalimantan Selatan,15.0,7.87,1600,11.19,8.52,358
+64,Kalimantan Timur,14.27,8.91,1636,10.09,11.04,434
+65,Kalimantan Utara,13.13,7.5,280,9.48,6.94,60
+71,Sulawesi Utara,12.91,7.37,1266,11.36,10.32,364
+72,Sulawesi Tengah,13.55,8.57,1657,9.3,8.73,348
+73,Sulawesi Selatan,13.96,8.14,4654,9.52,8.84,887
+74,Sulawesi Tenggara,14.22,7.52,1131,9.86,8.31,213
+75,Gorontalo,13.11,8.07,629,10.46,9.09,147
+76,Sulawesi Barat,15.86,7.14,679,11.72,9.54,103
+82,Maluku,11.21,8.88,852,7.82,9.2,239
+81,Maluku Utara,12.5,7.68,591,8.64,6.31,148
+92,Papua Barat,11.87,8.19,212,9.36,7.61,70
+96,Papua Barat Daya,11.92,8.94,271,6.88,6.67,65
+91,Papua,13.55,8.77,386,9.17,9.01,133
+93,Papua Selatan,12.4,7.07,268,9.21,8.32,43
+94,Papua Tengah,17.33,13.7,323,10.54,7.34,176
+95,Papua Pegunungan,14.73,8.65,322,11.68,9.03,171
+0,INDONESIA,12.11,7.74,148170,8.77,8.71,31377

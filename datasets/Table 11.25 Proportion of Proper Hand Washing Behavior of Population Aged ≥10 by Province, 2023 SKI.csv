@@ -1,0 +1,40 @@
+province_code,province,proper_hand_washing_behavior,proper_hand_washing_behavior_95%_CI_lower,proper_hand_washing_behavior_95%_CI_upper,weighted_n
+11,Aceh,36.0,34.4,37.6,12540
+12,Sumatera Utara,37.2,35.4,39.0,35749
+13,Sumatera Barat,39.3,37.3,41.4,14069
+14,Riau,43.0,40.8,45.3,15454
+15,Jambi,48.0,45.4,50.7,8709
+16,Sumatera Selatan,38.7,36.6,40.8,20801
+17,Bengkulu,48.2,45.7,50.7,5020
+18,Lampung,52.5,50.2,54.7,22402
+19,Kep. Bangka Belitung,57.2,54.6,59.8,3757
+21,Kepulauan Riau,39.8,36.6,43.0,5202
+31,DKI Jakarta,48.0,44.6,51.4,26982
+32,Jawa Barat,56.4,55.0,57.7,124670
+33,Jawa Tengah,61.2,59.9,62.5,94618
+34,DI Yogyakarta,73.6,70.9,76.1,9634
+35,Jawa Timur,58.4,57.1,59.6,105129
+36,Banten,46.4,43.7,49.2,30372
+51,Bali,67.7,65.1,70.3,11281
+52,Nusa Tenggara Barat,48.6,46.1,51.1,13287
+53,Nusa Tenggara Timur,21.7,20.3,23.1,12279
+61,Kalimantan Barat,42.6,40.4,44.8,13548
+62,Kalimantan Tengah,43.6,41.0,46.2,6650
+63,Kalimantan Selatan,48.6,46.4,50.7,10208
+64,Kalimantan Timur,60.2,57.7,62.6,9598
+65,Kalimantan Utara,55.2,51.0,59.2,1775
+71,Sulawesi Utara,41.8,39.6,43.9,6617
+72,Sulawesi Tengah,41.8,39.5,44.2,7443
+73,Sulawesi Selatan,44.2,42.7,45.8,23174
+74,Sulawesi Tenggara,40.6,38.6,42.6,6565
+75,Gorontalo,37.8,34.9,40.8,2997
+76,Sulawesi Barat,47.4,44.3,50.5,3512
+82,Maluku,28.6,26.0,31.3,4638
+81,Maluku Utara,36.3,33.8,38.9,3125
+92,Papua Barat,32.5,29.1,36.2,1288
+96,Papua Barat Daya,29.0,25.7,32.4,1463
+91,Papua,45.0,40.9,49.0,2258
+93,Papua Selatan,20.9,18.0,24.2,1000
+94,Papua Tengah,26.2,20.8,32.5,2529
+95,Papua Pegunungan,22.9,19.0,27.4,2711
+0,INDONESIA,51.1,50.6,51.5,683052
