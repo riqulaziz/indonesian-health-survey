@@ -1,0 +1,40 @@
+province_code,province,smooking_in_buildings,smooking_in_buildings_95%_CI_lower,smooking_in_buildings_95%_CI_upper,weighted_n
+11,Aceh,83.1,80.9,85.0,2964
+12,Sumatera Utara,86.8,84.9,88.4,7629
+13,Sumatera Barat,90.3,89.1,91.3,3576
+14,Riau,86.8,84.9,88.5,3519
+15,Jambi,86.8,85.0,88.5,1667
+16,Sumatera Selatan,90.1,88.9,91.2,4945
+17,Bengkulu,86.0,83.6,88.0,1256
+18,Lampung,91.6,90.3,92.7,5906
+19,Kep. Bangka Belitung,87.1,85.1,88.9,788
+21,Kepulauan Riau,71.3,65.0,76.8,1090
+31,DKI Jakarta,54.2,50.7,57.6,5725
+32,Jawa Barat,75.1,73.7,76.5,35100
+33,Jawa Tengah,83.2,82.1,84.3,23725
+34,DI Yogyakarta,67.0,64.3,69.6,2049
+35,Jawa Timur,83.5,82.4,84.5,25198
+36,Banten,78.0,75.2,80.5,7860
+51,Bali,59.2,56.1,62.3,1946
+52,Nusa Tenggara Barat,79.6,76.8,82.1,3706
+53,Nusa Tenggara Timur,92.9,91.7,93.9,2908
+61,Kalimantan Barat,92.7,91.3,93.9,2901
+62,Kalimantan Tengah,90.5,88.5,92.1,1414
+63,Kalimantan Selatan,87.5,85.8,88.9,1851
+64,Kalimantan Timur,78.6,76.1,80.9,1896
+65,Kalimantan Utara,74.3,69.3,78.6,325
+71,Sulawesi Utara,86.2,84.0,88.2,1457
+72,Sulawesi Tengah,92.0,90.4,93.4,1849
+73,Sulawesi Selatan,89.3,88.0,90.5,4853
+74,Sulawesi Tenggara,92.7,91.3,93.9,1247
+75,Gorontalo,91.9,89.5,93.8,743
+76,Sulawesi Barat,94.6,92.7,96.1,733
+82,Maluku,88.4,85.8,90.5,1016
+81,Maluku Utara,90.2,88.0,92.0,714
+92,Papua Barat,81.6,75.9,86.1,272
+96,Papua Barat Daya,81.0,75.5,85.4,324
+91,Papua,76.3,71.1,80.8,478
+93,Papua Selatan,91.1,84.3,95.1,299
+94,Papua Tengah,81.4,75.4,86.2,547
+95,Papua Pegunungan,84.2,78.3,88.6,508
+0,INDONESIA,81.5,81.0,81.9,164987
