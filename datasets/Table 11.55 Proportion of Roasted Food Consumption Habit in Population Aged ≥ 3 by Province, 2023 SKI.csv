@@ -1,0 +1,40 @@
+province_code,province,roasted_food_consumption_more_than_1_times_per_day,roasted_food_consumption_1_to_6_times_per_week,roasted_food_consumption_less_than_3_times_per_month,weighted_n
+11,Aceh,4.3,49.4,46.3,16255
+12,Sumatera Utara,5.0,38.7,56.3,45584
+13,Sumatera Barat,3.7,42.3,54.0,17114
+14,Riau,3.4,52.0,44.7,19685
+15,Jambi,3.4,49.4,47.2,10955
+16,Sumatera Selatan,3.9,47.1,49.0,26003
+17,Bengkulu,5.1,50.9,44.0,6210
+18,Lampung,3.2,38.2,58.6,27688
+19,Kep. Bangka Belitung,2.3,58.1,39.5,4505
+21,Kepulauan Riau,3.6,45.6,50.8,6369
+31,DKI Jakarta,3.3,44.1,52.7,31861
+32,Jawa Barat,3.8,37.9,58.3,148411
+33,Jawa Tengah,2.8,33.3,63.9,112057
+34,DI Yogyakarta,1.9,30.2,67.9,11225
+35,Jawa Timur,2.2,29.4,68.4,124362
+36,Banten,4.2,52.0,43.8,36709
+51,Bali,1.6,38.3,60.1,13137
+52,Nusa Tenggara Barat,4.3,48.8,46.9,16431
+53,Nusa Tenggara Timur,4.0,41.7,54.3,16322
+61,Kalimantan Barat,2.0,33.0,65.0,16727
+62,Kalimantan Tengah,4.1,59.4,36.5,8225
+63,Kalimantan Selatan,4.4,60.1,35.5,12523
+64,Kalimantan Timur,3.9,48.1,48.0,11651
+65,Kalimantan Utara,3.6,50.0,46.4,2162
+71,Sulawesi Utara,7.9,67.0,25.1,7994
+72,Sulawesi Tengah,13.5,62.9,23.6,9127
+73,Sulawesi Selatan,7.9,62.9,29.2,27815
+74,Sulawesi Tenggara,12.4,62.4,25.2,8108
+75,Gorontalo,8.0,74.6,17.5,3598
+76,Sulawesi Barat,11.3,65.1,23.6,4361
+82,Maluku,17.4,54.3,28.3,5673
+81,Maluku Utara,22.9,57.2,20.0,3955
+92,Papua Barat,11.5,49.3,39.2,1674
+96,Papua Barat Daya,9.1,43.5,47.4,1808
+91,Papua,11.6,55.1,33.3,3058
+93,Papua Selatan,28.3,48.5,23.2,1539
+94,Papua Tengah,42.4,35.3,22.4,4350
+95,Papua Pegunungan,47.1,39.3,13.6,4341
+0,INDONESIA,4.5,41.3,54.1,829573

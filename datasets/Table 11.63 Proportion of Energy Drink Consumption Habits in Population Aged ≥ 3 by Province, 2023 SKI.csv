@@ -1,0 +1,40 @@
+province_code,province,energy_drink_consumption_more_than_1_times_per_day,energy_drink_consumption_1_to_6_times_per_week,energy_drink_consumption_less_than_3_times_per_month,weighted_n
+11,Aceh,2.5,15.0,82.5,16255
+12,Sumatera Utara,2.1,9.4,88.6,45584
+13,Sumatera Barat,1.4,6.5,92.1,17114
+14,Riau,1.9,10.3,87.7,19685
+15,Jambi,1.5,10.9,87.6,10955
+16,Sumatera Selatan,1.5,7.5,91.0,26003
+17,Bengkulu,1.8,9.2,89.0,6210
+18,Lampung,2.0,8.1,89.9,27688
+19,Kep. Bangka Belitung,2.0,10.4,87.6,4505
+21,Kepulauan Riau,1.4,9.1,89.5,6369
+31,DKI Jakarta,0.9,4.7,94.3,31861
+32,Jawa Barat,1.5,5.7,92.8,148411
+33,Jawa Tengah,0.9,3.2,95.9,112057
+34,DI Yogyakarta,0.8,1.1,98.1,11225
+35,Jawa Timur,0.8,3.4,95.7,124362
+36,Banten,1.4,6.5,92.2,36709
+51,Bali,0.7,7.2,92.1,13137
+52,Nusa Tenggara Barat,1.4,7.7,90.9,16431
+53,Nusa Tenggara Timur,2.7,9.9,87.4,16322
+61,Kalimantan Barat,1.1,13.4,85.5,16727
+62,Kalimantan Tengah,2.3,18.9,78.8,8225
+63,Kalimantan Selatan,2.3,9.3,88.4,12523
+64,Kalimantan Timur,1.7,6.8,91.5,11651
+65,Kalimantan Utara,2.0,11.2,86.8,2162
+71,Sulawesi Utara,2.1,11.9,86.0,7994
+72,Sulawesi Tengah,3.0,10.3,86.7,9127
+73,Sulawesi Selatan,2.5,9.6,87.9,27815
+74,Sulawesi Tenggara,4.0,11.9,84.1,8108
+75,Gorontalo,3.0,16.8,80.2,3598
+76,Sulawesi Barat,2.1,10.5,87.4,4361
+82,Maluku,5.5,18.5,76.0,5673
+81,Maluku Utara,8.4,24.6,67.0,3955
+92,Papua Barat,7.4,23.9,68.7,1674
+96,Papua Barat Daya,4.6,12.0,83.4,1808
+91,Papua,4.8,21.5,73.7,3058
+93,Papua Selatan,4.9,21.5,73.6,1539
+94,Papua Tengah,8.5,24.2,67.3,4350
+95,Papua Pegunungan,8.1,13.3,78.6,4341
+0,INDONESIA,1.6,7.1,91.3,829573
